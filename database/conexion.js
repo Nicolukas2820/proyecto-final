@@ -3,8 +3,8 @@ var mysql = require('mysql');
 var connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '1234',
-  database: 'veterinaria'
+  password: 'sj*bRc$FRS5jGC',
+  database: 'hospital'
 });
 
 // Conexión a la base de datos
